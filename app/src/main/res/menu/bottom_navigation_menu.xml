@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/orders"
+        android:enabled="true"
+        android:title="Orders"
+        android:icon="@drawable/ic_bx_bxs_dish"/>
+
+    <item
+        android:id="@+id/menu"
+        android:enabled="true"
+        android:title="Menu"
+        android:icon="@drawable/ic_bx_bx_book_content"/>
+
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"/>
+</menu>
